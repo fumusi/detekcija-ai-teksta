@@ -1,0 +1,6 @@
+AI_Human.csv
+notebook_executed.ipynb
+make_presentation.py
+__pycache__/
+*.pyc
+.DS_Store
